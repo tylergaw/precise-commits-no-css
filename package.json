@@ -10,8 +10,5 @@
   },
   "scripts": {
     "precise-commits": "precise-commits"
-  },
-  "prettier": {
-    "files": "*.css"
   }
 }
